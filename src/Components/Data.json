@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Nguyễn Trần Hòa",
+        "tel": "0857665968",
+        "permission": "1"
+    },
+    {
+        "id": 2,
+        "name": "Nguyễn Bích Ngọc",
+        "tel": "0371896788",
+        "permission": "2"
+    },
+    {
+        "id": 3,
+        "name": "Phương Tẹt",
+        "tel": "0966587422",
+        "permission": "2"
+    },
+    {
+        "id": 4,
+        "name": "Phạm Thị Bích Diệp",
+        "tel": "0771232196",
+        "permission": "3"
+    },
+    {
+        "id": 5,
+        "name": "Lê Ngọc Tuấn",
+        "tel": "0887970046",
+        "permission": "3"
+    }
+]
